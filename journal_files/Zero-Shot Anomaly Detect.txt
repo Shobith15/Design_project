@@ -1,0 +1,8 @@
+1. Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models -https://ieeexplore.ieee.org/abstract/document/11093352
+2. VCF-CLIP: Visual Context-Driven Fine-Grained Prompt Learning for Zero-Shot Anomaly Detection-https://ieeexplore.ieee.org/abstract/document/11616638
+3. Zero-Shot Visual Anomaly Detection on a Quadruped Robot Using State of the Art Visual Language Models-https://ieeexplore.ieee.org/abstract/document/11364213
+4. Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety-
+https://ieeexplore.ieee.org/abstract/document/11163861
+5. Fine-Grained Zero-Shot Vehicle Make and Model Recognition: A Survey and Future Directions-
+https://ieeexplore.ieee.org/abstract/document/11591420
+6. Zero-Shot Defect Detection With Anomaly Attribute Awareness via Textual Domain Bridge-https://ieeexplore.ieee.org/document/10909027
